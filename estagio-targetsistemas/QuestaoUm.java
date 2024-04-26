@@ -11,6 +11,8 @@ public class QuestaoUm {
 
 			SOMA = SOMA + K;
 		}
+
+        // De acordo com os testes o resultado final é 91
 		System.out.println(SOMA);
 	}
 
