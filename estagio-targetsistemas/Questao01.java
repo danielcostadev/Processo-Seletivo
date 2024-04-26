@@ -1,4 +1,4 @@
-public class QuestaoUm {
+public class Questao01 {
 
 	private static final int INDICE = 13;
 	private static int SOMA = 0;
